@@ -1,6 +1,6 @@
 # Lau Yee Heng a.k.a Richard
 I am Richard from Malaysia, and I am a Java Developer in a F&B solution company. I am enjoying learning
-new tecnolgies and programming languages. Currently I am exploring CI/CD using GitLab to deploy my GitLab
+new technologies and programming languages. Currently I am exploring CI/CD using GitLab to deploy my GitLab
 page using Hakyll template.
 
 - 🌱 I’m currently learning gitops.
@@ -9,9 +9,14 @@ page using Hakyll template.
 * Java
 * Spring Boot
 * JavaScript
-* Rust
 * Python
+* Go
+* Rust
+* Dart(Flutter SDK)
 
+## ⚡ Fun fact:
+* I like to eat
+* I like to code in Java & Go
 
 
 [![Richard's github stats](https://github-readme-stats.vercel.app/api?username=Richard696)](https://github.com/Richard696/github-readme-stats)
@@ -28,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
